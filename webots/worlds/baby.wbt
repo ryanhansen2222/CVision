@@ -1,0 +1,21 @@
+#VRML_SIM R2021a utf8
+WorldInfo {
+  coordinateSystem "NUE"
+}
+Viewpoint {
+  orientation 0.6735480723341574 -0.7112902787593786 -0.200995357153707 5.488716130706885
+  position 0.48860881143600216 0.7706908692209326 0.9673095256005919
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+}
+E-puck {
+  translation 0 0 0.07
+  controller "<extern>"
+}
+Orange {
+  translation 0 0.05 -0.27
+}
